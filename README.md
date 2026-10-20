@@ -94,7 +94,19 @@ Same spot, same settings, frame rate set to **Unlimited**. Only the mod is turne
 
 All settings are in the mod menu, or in `config/shadowlod-client.toml`.
 
-> **Occlusion** hides terrain behind hills and buildings. It is experimental and off by default, as it can cause slight pop-in when the camera moves fast.
+**Even more FPS:** these settings trade a bit of visual quality for speed.
+
+| Setting | Default | Faster | What you lose |
+|---|:---:|:---:|---|
+| `occlusion` | false | true | Hides terrain behind hills and buildings. Slight pop-in when the camera moves fast. |
+| `shadowUpdateInterval` | 1 | 2 | Shadows update every other frame and can lag behind when you turn. |
+| `shadowTerrainPercent` | 100 | 70 | Distant terrain stops casting shadows sooner. |
+| `shadowEntityDistance` | 16 | 8 | Mobs further away lose their shadow. |
+| `sunStepDegrees` | 0.25 | 1.0 | Shadows move with the sun in visible steps. |
+| `impostorDistance` | 32 | 24 | Mobs turn into pictures closer to you. |
+| `maxEntityDistance` | 128 | 96 | Mobs disappear sooner. |
+| `maxBlockEntityDistance` | 32 | 24 | Chests, signs and banners disappear sooner. |
+| `maxParticleDistance` | 40 | 24 | Particles disappear sooner. |
 
 <p align="center"><img src="images/terms.png" alt="Terms"></p>
 
