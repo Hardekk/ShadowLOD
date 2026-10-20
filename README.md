@@ -42,12 +42,12 @@ Same spot, same settings, frame rate set to **Unlimited**. Only the mod is turne
 
 | Scene | Off | On | Gain |
 |---|:---:|:---:|:---:|
-| 🧱 **Wall on a flat world** | 150 FPS | 260 FPS | +73% |
-| 🏘️ **Village house** | 44 FPS | 147 FPS | ×3.3 |
-| 🏰 **Village with a tower** | 58 FPS | 157 FPS | ×2.7 |
-| 🛒 **Market with villagers** | 75 FPS | 90 FPS | +20% |
-| 🌙 **Village at night** | 154 FPS | 186 FPS | +21% |
-| 🐄 **Pen with 130 cows, far away** | 12 FPS | 236 FPS | ×20 |
+| 🧱 **Wall on a flat world** | 150 FPS | 260 FPS | ×1.73 |
+| 🏘️ **Village house** | 44 FPS | 147 FPS | ×3.34 |
+| 🏰 **Village with a tower** | 58 FPS | 157 FPS | ×2.71 |
+| 🛒 **Market with villagers** | 75 FPS | 90 FPS | ×1.20 |
+| 🌙 **Village at night** | 154 FPS | 186 FPS | ×1.21 |
+| 🐄 **Pen with 130 cows, far away** | 12 FPS | 236 FPS | ×19.7 |
 
 *Ryzen 7 9800X3D, Radeon RX 9070 XT, 1440p, Photon shaders, Distant Horizons. Your results depend on the scene and your hardware.*
 
