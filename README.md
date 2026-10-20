@@ -65,6 +65,7 @@ Same spot, same settings, frame rate set to **Unlimited**. Only the mod is turne
 | Embeddium | ✅ |
 | Oculus (all shader packs) | ✅ |
 | Distant Horizons | ✅ |
+| C2ME | ✅ ³ |
 | Entity Model Features / Fresh Animations | ✅ |
 | Entity Culling | ✅ ¹ |
 | ImmediatelyFast, ModernFix, FerriteCore | ✅ |
@@ -81,6 +82,8 @@ Same spot, same settings, frame rate set to **Unlimited**. Only the mod is turne
 ¹ Recommended alongside ShadowLOD, they cover different parts of rendering.
 
 ² Chests, bells and minecarts drawn by Vanillin are not handled by ShadowLOD.
+
+³ C2ME threads get a lower priority so world generation does not take frames from rendering. Remove `"c2me"` from `lowPriorityThreads` to give it full speed.
 
 **Requirements:** Minecraft 1.20.1, Forge 47 or newer. Embeddium and Oculus are optional.
 
