@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="images/header.png" alt="ShadowLOD : Lighter shadows, smoother worlds" width="100%">
+  <img src="images/header.png" alt="ShadowLOD : Lighter, smoother worlds" width="100%">
 </p>
 
 <p align="center">
-  <b>More FPS with shaders, without changing how your game looks.</b><br>
+  <b>More FPS, with or without shaders, without changing how your game looks.</b><br>
   <i>Crafted by Hardek</i>
 </p>
 
@@ -20,9 +20,9 @@
 
 <p align="center"><img src="images/about.png" alt="About"></p>
 
-ShadowLOD makes Minecraft lighter to render, mostly with shaders on.
-Shadows are only drawn where you can see them, the terrain shadow is reused instead of redrawn every frame,
-and distant mobs turn into flat pictures of their own model.
+ShadowLOD makes Minecraft lighter and smoother to render, with or without shaders.
+Distant mobs turn into flat pictures of their own model, far block entities and particles are skipped,
+chunk loading no longer causes stutter, and with shaders on, shadows are only drawn where you can see them.
 Your world looks the same, your graphics card just does less work.
 
 <p align="center"><img src="images/features.png" alt="Features"></p>
