@@ -51,12 +51,12 @@ Same spot, same settings, frame rate set to **Unlimited**. Only the mod is turne
 
 *Ryzen 7 9800X3D, Radeon RX 9070 XT, 1440p, Photon shaders, Distant Horizons. Your results depend on the scene and your hardware.*
 
-<p align="center"><img src="images/results/house.jpg" alt="Village house, off and on" width="100%"></p>
-<p align="center"><img src="images/results/tower.jpg" alt="Village with a tower, off and on" width="100%"></p>
-<p align="center"><img src="images/results/cows.jpg" alt="Pen with 130 cows, off and on" width="100%"></p>
-<p align="center"><img src="images/results/wall.jpg" alt="Wall on a flat world, off and on" width="100%"></p>
-<p align="center"><img src="images/results/market.jpg" alt="Market with villagers, off and on" width="100%"></p>
-<p align="center"><img src="images/results/night.jpg" alt="Village at night, off and on" width="100%"></p>
+<p align="center"><img src="images/compare/house.jpg" alt="Village house, off and on" width="100%"></p>
+<p align="center"><img src="images/compare/tower.jpg" alt="Village with a tower, off and on" width="100%"></p>
+<p align="center"><img src="images/compare/cows.jpg" alt="Pen with 130 cows, off and on" width="100%"></p>
+<p align="center"><img src="images/compare/wall.jpg" alt="Wall on a flat world, off and on" width="100%"></p>
+<p align="center"><img src="images/compare/market.jpg" alt="Market with villagers, off and on" width="100%"></p>
+<p align="center"><img src="images/compare/night.jpg" alt="Village at night, off and on" width="100%"></p>
 
 <p align="center"><img src="images/compatibility.png" alt="Compatibility"></p>
 
