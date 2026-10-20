@@ -38,17 +38,25 @@ Your world looks the same, your graphics card just does less work.
 
 <p align="center"><img src="images/results.png" alt="Results"></p>
 
-Same spot, same settings, uncapped frame rate, mod off then on.
+Same spot, same settings, frame rate set to **Unlimited**. Only the mod is turned off (left) or on (right).
 
-| Scene | Off | On |
-|---|:---:|:---:|
-| 🏘️ **Village house** | 44 FPS | 147 FPS |
-| 🏰 **Village with a tower** | 58 FPS | 157 FPS |
-| 🌙 **Village at night** | 154 FPS | 186 FPS |
-| 🧱 **Wall on a flat world** | 150 FPS | 260 FPS |
-| 🐄 **Pen with 130 cows, far away** | 12 FPS | 236 FPS |
+| Scene | Off | On | Gain |
+|---|:---:|:---:|:---:|
+| 🧱 **Wall on a flat world** | 150 FPS | 260 FPS | +73% |
+| 🏘️ **Village house** | 44 FPS | 147 FPS | ×3.3 |
+| 🏰 **Village with a tower** | 58 FPS | 157 FPS | ×2.7 |
+| 🛒 **Market with villagers** | 75 FPS | 90 FPS | +20% |
+| 🌙 **Village at night** | 154 FPS | 186 FPS | +21% |
+| 🐄 **Pen with 130 cows, far away** | 12 FPS | 236 FPS | ×20 |
 
 *Ryzen 7 9800X3D, Radeon RX 9070 XT, 1440p, Photon shaders, Distant Horizons. Your results depend on the scene and your hardware.*
+
+<p align="center"><img src="images/results/house.jpg" alt="Village house, off and on" width="100%"></p>
+<p align="center"><img src="images/results/tower.jpg" alt="Village with a tower, off and on" width="100%"></p>
+<p align="center"><img src="images/results/cows.jpg" alt="Pen with 130 cows, off and on" width="100%"></p>
+<p align="center"><img src="images/results/wall.jpg" alt="Wall on a flat world, off and on" width="100%"></p>
+<p align="center"><img src="images/results/market.jpg" alt="Market with villagers, off and on" width="100%"></p>
+<p align="center"><img src="images/results/night.jpg" alt="Village at night, off and on" width="100%"></p>
 
 <p align="center"><img src="images/compatibility.png" alt="Compatibility"></p>
 
