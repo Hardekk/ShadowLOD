@@ -1,0 +1,24 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "fr.hardek.shadowlod.mixin",
+  "plugin": "fr.hardek.shadowlod.mixin.MixinPlugin",
+  "compatibilityLevel": "JAVA_17",
+  "refmap": "shadowlod.refmap.json",
+  "client": [
+    "LevelRendererMixin",
+    "LevelRendererShadowMixin",
+    "GameRendererMixin",
+    "EntityRendererMixin",
+    "EntityDistanceMixin",
+    "BlockEntityRenderDispatcherMixin",
+    "ParticleEngineMixin",
+    "embeddium.OcclusionCullerMixin",
+    "embeddium.RenderSectionManagerMixin",
+    "oculus.ShadowRendererMixin",
+    "emf.EmfLodMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
