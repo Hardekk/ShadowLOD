@@ -10,7 +10,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Minecraft-1.20.1-5b8731?style=for-the-badge" alt="Minecraft 1.20.1">
   <img src="https://img.shields.io/badge/Forge-47%2B-8b5a2b?style=for-the-badge" alt="Forge 47+">
-  <img src="https://img.shields.io/badge/Embeddium%20%C2%B7%20Oculus-compatible-6b6b6b?style=for-the-badge" alt="Embeddium and Oculus">
+  <img src="https://img.shields.io/badge/Embeddium%20and%20Oculus-compatible-6b6b6b?style=for-the-badge" alt="Embeddium and Oculus">
 </p>
 
 <p align="center">
