@@ -60,30 +60,30 @@ Same spot, same settings, frame rate set to **Unlimited**. Only the mod is turne
 
 <p align="center"><img src="images/compatibility.png" alt="Compatibility"></p>
 
-| Mod | Status |
-|---|:---:|
-| Embeddium | ✅ |
-| Oculus (all shader packs) | ✅ |
-| Distant Horizons | ✅ |
-| C2ME | ✅ ³ |
-| Entity Model Features / Fresh Animations | ✅ |
-| Entity Culling | ✅ ¹ |
-| ImmediatelyFast, ModernFix, FerriteCore | ✅ |
-| Faster Iris Shadow Mapper | ✅ ¹ |
-| Vanillin / Flywheel | 🟧 ² |
-| OptiFine | ❌ |
+| Mod | Status | What works | Not yet |
+|---|:---:|---|---|
+| Embeddium | ✅ | Everything | |
+| Oculus (all shader packs) | ✅ | Everything | |
+| Distant Horizons | ✅ | Everything | |
+| C2ME | ✅ ² | Everything | |
+| Entity Model Features / Fresh Animations | ✅ | Everything | |
+| Physics Mod | ✅ | Everything | |
+| Entity Culling | ✅ ¹ | Everything | |
+| Faster Iris Shadow Mapper | ✅ ¹ | Everything | |
+| ImmediatelyFast, ModernFix, FerriteCore | ✅ | Everything | |
+| Luxium | 🟧 | Distant mob LOD, render distances, smooth frames | Shadow culling and shadow cache ³ |
+| Create | 🟧 | Everything for the rest of the world | Create machines and contraptions ³ |
+| Vanillin / Flywheel | 🟧 | Everything for the rest of the world | Chests, bells and minecarts drawn by Vanillin ³ |
 
-✅ Works together.
+✅ Fully works.
 
-🟧 Works, with a limit.
-
-❌ Not supported.
+🟧 Works, some features are not applied yet.
 
 ¹ Recommended alongside ShadowLOD, they cover different parts of rendering.
 
-² Chests, bells and minecarts drawn by Vanillin are not handled by ShadowLOD.
+² C2ME threads get a lower priority so world generation does not take frames from rendering. Remove `"c2me"` from `lowPriorityThreads` to give it full speed.
 
-³ C2ME threads get a lower priority so world generation does not take frames from rendering. Remove `"c2me"` from `lowPriorityThreads` to give it full speed.
+³ **Dedicated support is planned in a future update.**
 
 **Requirements:** Minecraft 1.20.1, Forge 47 or newer. Embeddium and Oculus are optional.
 
