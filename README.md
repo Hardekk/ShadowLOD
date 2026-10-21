@@ -61,7 +61,7 @@ Same spot, same settings, frame rate set to **Unlimited**. Only the mod is turne
 <p align="center"><img src="images/compatibility.png" alt="Compatibility"></p>
 
 | Mod | Status | What works | Not yet |
-|---|:---:|---|---|
+|:---|:---:|:---|:---|
 | Embeddium | ✅ | Everything | |
 | Oculus (all shader packs) | ✅ | Everything | |
 | Distant Horizons | ✅ | Everything | |
